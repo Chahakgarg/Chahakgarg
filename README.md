@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...AI ML
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python Projects
-- 📫 How to reach me ...
 
 <!---
 Chahakgarg/Chahakgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
