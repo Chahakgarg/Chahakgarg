@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Chahakgarg
-- 👀 I’m interested in ...AI ML
-- 🌱 I’m currently learning ...Python and Java
-- 💞️ I’m looking to collaborate on ...Python Projects
 
 <!---
 Chahakgarg/Chahakgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +48,7 @@ I really like to learn new skills and develop technologies trhough them.
 <a href="https://www.instagram.com/chahak_garg/" target="_blank" rel="noreferrer"><img src="assets/Instagram-Logo.wine.svg" alt="instagram" width="35" height="35"/></a>
 </p>
 
-![Flag]!![image](https://user-images.githubusercontent.com/75081005/198870305-af6bd6b9-86cb-43f4-a9a8-0c03431b34e3.png)
+![image](https://user-images.githubusercontent.com/75081005/198870305-af6bd6b9-86cb-43f4-a9a8-0c03431b34e3.png)
 
 
 
