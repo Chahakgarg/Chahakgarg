@@ -4,12 +4,13 @@ Chahakgarg/Chahakgarg is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![]()
+<img alt="GIF" src="https://github.com/Chahakgarg/Chahakgarg/blob/main/prog.gif" width="500"/>
 ### Hi there 🙋🏻‍♀️!!
 ### I'm Chahak Garg
 I am a tech enthusiast while I'm more inclined towards Artificial Intelligence and Machine Learning.I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I'm focusing more on learning Natural Language Programming and Deep Learning and also experimenting a bit with Flutter and Dart.
 I really like to learn new skills and develop technologies trhough them.
 
-<img length="100%" align="right" alt="Github Image" src="https://github.com/Chahakgarg/Chahakgarg/blob/main/stars.png)<br>
+<img width="48%" align="right" alt="Github Image" src="https://github.com/Chahakgarg/Chahakgarg/blob/main/Screenshot_20221030_144357.png"><br>
 
 
 - 🌱 I’m currently learning **Tensorflow**
@@ -59,5 +60,5 @@ I really like to learn new skills and develop technologies trhough them.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chahak-garg-a0a831203/) 
 
 
-
+![Stars](stars.png)
 
