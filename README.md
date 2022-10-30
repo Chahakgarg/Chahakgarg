@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 I am a tech enthusiast while I'm more inclined towards Artificial Intelligence and Machine Learning.I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I'm focusing more on learning Natural Language Programming and Deep Learning and also experimenting a bit with Flutter and Dart.
 I really like to learn new skills and develop technologies trhough them.
 
-<img width="48%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
+<img width="48%" align="right" alt="Github Image" src="![image](https://user-images.githubusercontent.com/75081005/198870766-cb26e1f1-7d18-4d33-8a9e-9e1c96b9d668.png)
+" /><br>
 
 
 
@@ -40,11 +41,10 @@ I really like to learn new skills and develop technologies trhough them.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-..### Connect - Connect!!..
+##..
+### Connect - Connect!!..
 <p align="left">
 <a href="https://www.linkedin.com/in/chahak-garg-a0a831203/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/> 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" alt="gmail" width="30" height="30"/></a>
 <a href="https://www.instagram.com/chahak_garg/" target="_blank" rel="noreferrer"><img src="assets/Instagram-Logo.wine.svg" alt="instagram" width="35" height="35"/></a>
 </p>
 
