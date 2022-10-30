@@ -33,10 +33,10 @@ I really like to learn new skills and develop technologies trhough them.
 
 
 ### Machine Learning 
-![Numpy] <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-![Pandas] <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-![Matplotlib] <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a>
-![Seaborn] <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
