@@ -3,13 +3,14 @@
 Chahakgarg/Chahakgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![]()
 ### Hi there 🙋🏻‍♀️!!
 ### I'm Chahak Garg
 I am a tech enthusiast while I'm more inclined towards Artificial Intelligence and Machine Learning.I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I'm focusing more on learning Natural Language Programming and Deep Learning and also experimenting a bit with Flutter and Dart.
 I really like to learn new skills and develop technologies trhough them.
 
-<img width="48%" align="right" alt="Github Image" src="![image](https://user-images.githubusercontent.com/75081005/198870766-cb26e1f1-7d18-4d33-8a9e-9e1c96b9d668.png)
+<img width="48%" align="right" alt="Github Image" src="![image](![image](https://user-images.githubusercontent.com/75081005/198871147-e98f480a-d328-425e-8469-503cd271c40d.png)
+)
 " /><br>
 
 
@@ -23,32 +24,44 @@ I really like to learn new skills and develop technologies trhough them.
 
 - 👀 I'll try to contribute more to **Open Source** this year
 
-## My Tech Experiments goes in hand with :..
-### Languages & Tools 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Eclipse](https://img.shields.io/badge/-Eclipse-lightgrey)
+
+
+## 💻 Tech Stack- ..
+## Languages and Tools 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-### Machine Learning 
-<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 
 ##..
-### Connect - Connect!!..
-<p align="left">
-<a href="https://www.linkedin.com/in/chahak-garg-a0a831203/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/> 
-<a href="https://www.instagram.com/chahak_garg/" target="_blank" rel="noreferrer"><img src="assets/Instagram-Logo.wine.svg" alt="instagram" width="35" height="35"/></a>
-</p>
 
-![image](https://user-images.githubusercontent.com/75081005/198870305-af6bd6b9-86cb-43f4-a9a8-0c03431b34e3.png)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chahakgarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chahakgarg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chahakgarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chahakgarg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+##..
+## 🌐 Socials ..
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/CG#1547)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chahak_garg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chahak-garg-a0a831203/) 
+
 
 
 
