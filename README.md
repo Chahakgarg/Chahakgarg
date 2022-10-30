@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
  
  </div>
  
- <center>
- ###
 <center>
+### 
+</center>
 ### Hi there 🙋🏻‍♀️!!
 ### I'm Chahak Garg
 I am a tech enthusiast while I'm more inclined towards Artificial Intelligence and Machine Learning.I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I'm focusing more on learning Natural Language Programming and Deep Learning and also experimenting a bit with Flutter and Dart.
