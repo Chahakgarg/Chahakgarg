@@ -9,8 +9,7 @@ You can click the Preview link to take a look at your changes.
 I am a tech enthusiast while I'm more inclined towards Artificial Intelligence and Machine Learning.I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I'm focusing more on learning Natural Language Programming and Deep Learning and also experimenting a bit with Flutter and Dart.
 I really like to learn new skills and develop technologies trhough them.
 
-<img width="48%" align="right" alt="Github Image" src="![image](![image](https://user-images.githubusercontent.com/75081005/198871147-e98f480a-d328-425e-8469-503cd271c40d.png)
-)" /><br>
+<img length="100%" align="right" alt="Github Image" src="https://github.com/Chahakgarg/Chahakgarg/blob/main/stars.png)<br>
 
 
 - 🌱 I’m currently learning **Tensorflow**
